@@ -1,0 +1,15 @@
+@media(max-width:725px){
+    h3{
+        font-size: 60px;
+    }
+    i{  
+        margin: 0 10px;
+        font-size: 40px;
+        color: #ffffff;
+        transition: 0.4s ease-in-out;
+    }
+    p{
+        font-size: 13px;
+        color: #ffffff;
+    }
+}
